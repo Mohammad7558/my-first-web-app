@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div:hover{
+    background-color: gold;
+    width: 50%;
+    height: 50vh;
+}
+
+div:hover h1{
+    color: #fff;
+}
