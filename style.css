@@ -1,7 +1,4 @@
-td,
-th{
-    border: 1px solid gold;
-}
-table{
-    border-collapse: collapse;
+.lorem20{
+    width: 100%;
+    padding: 20px;
 }
