@@ -1,0 +1,15 @@
+h1{
+    color: dodgerblue;
+    background-color: lightblue;
+    height: 50vh;
+    width: 50%;
+    font-size: 2em;
+    border: 1px solid black;
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    font-size: 10px;
+}
